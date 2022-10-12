@@ -1,1 +1,5 @@
-"# eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee" 
+# eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+"""
+while 'e' :
+  print("eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee");
+"""
